@@ -36,6 +36,8 @@ import com.google.gson.Gson;
 @RequestMapping("my")
 @Controller
 public class MyController {
+	
+	///月考
 
 	@Resource
 	private ArticleService articleService;
